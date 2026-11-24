@@ -23,7 +23,8 @@ each other.
 The line was picked by pre-judging eight original candidates against each
 other with the competition's own judge model (z-ai/glm-5.3-flash on
 OpenRouter, the judge brief copied from the kit), two calls per pair, one in
-each order. It won its round robin with the highest mean game share.
+each order. It led the completed games with the highest mean game share
+(0.71 over its seven games).
 
 ## How it works
 
